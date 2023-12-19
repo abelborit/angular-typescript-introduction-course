@@ -1,4 +1,4 @@
-# TypeScript (introduction course)
+# TypeScript to Angular (introduction course)
 
 ---
 
